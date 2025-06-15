@@ -1,0 +1,17 @@
+
+{
+  "projects": [
+    {
+      "title": "Portfolio Template Engine",
+      "description": "A portfolio template engine built with React and Tailwind CSS. It allows you to create a portfolio website with a custom theme and layout.",
+      "image": "placeholder.svg",
+      "link": "https://github.com/kssasarma/portfolio-template-engine"
+    },
+    {
+      "title": "Idea BOARD",
+      "description": "An idea board built with React and Tailwind CSS. It allows you to create a board with a custom theme and layout.",
+      "image": "placeholder.svg",
+      "link": "https://github.com/kssasarma/boss-idea-board"
+    }
+  ]
+}

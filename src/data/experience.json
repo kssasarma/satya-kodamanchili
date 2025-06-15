@@ -1,0 +1,48 @@
+
+{
+  "experiences": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "OpenText",
+      "duration": "Sept 2024 – Present (6 mos)",
+      "achievements": [
+        "Tailoring FHIR integrations with one of the health care products",
+        "Guided two interns in building an industry standard patch utility for Case Management Products",
+        "Working with WLST and WebSphere Scripting tools",
+        "Innovated plan for multiple products to one single system with Microservices",
+        "Innovated AI solutions that can help the organization"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "OpenText",
+      "duration": "Oct 2022 – Sept 2024 (1 yrs 12 mos)",
+      "achievements": [
+        "Designing new solutions for solving bottlenecks in the product of IDM",
+        "Added Teamcity integration to 2 products and maintaining them",
+        "Worked for IDMWV, IV integrations for the products",
+        "Designed a full migration from perforce to Gitlab and automated pipelines for 4 products including security scans"
+      ]
+    },
+    {
+      "title": "Associate Software Engineer",
+      "company": "OpenText",
+      "duration": "Feb 2020 – Oct 2022 (2 yrs 8 mos)",
+      "achievements": [
+        "Java Developer for 4 products - Developing, fixing, and maintaining",
+        "Security Advocate for 3 products - Keeping an eye on all Security & License vulnerabilities",
+        "VMware vCloud Admin for 3 products - Managing all VMs and hardware resources",
+        "Motivating the Team to focus on security-compliant code"
+      ]
+    },
+    {
+      "title": "Engineering Intern",
+      "company": "OpenText",
+      "duration": "June 2019 – Jan 2021 (8 mos)",
+      "achievements": [
+        "Product Integration - Worked on integrating Swagger API",
+        "Added new Audit trail for Supplier Exchange"
+      ]
+    }
+  ]
+}

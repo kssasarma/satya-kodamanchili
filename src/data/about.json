@@ -1,0 +1,27 @@
+{
+	"name": "Satya Kodamanchili",
+	"title": "Senior Software Engineer",
+	"description": "5+ Years experienced Senior Software Engineer adept in bringing forth expertise in design, installation, testing, and maintenance of software systems. Proficient in various platforms and languages with a good understanding of AI models and RAG concepts.",
+	"highlights": [
+		{
+			"icon": "Code",
+			"title": "Full-Stack Development",
+			"description": "Expertise in Java, Spring Boot, React, and modern development frameworks"
+		},
+		{
+			"icon": "Server",
+			"title": "DevOps & Infrastructure",
+			"description": "Proficient in Docker, CI/CD pipelines, and cloud infrastructure management"
+		},
+		{
+			"icon": "Brain",
+			"title": "AI & Innovation",
+			"description": "Good understanding of AI models and RAG concepts with practical implementations"
+		},
+		{
+			"icon": "Users",
+			"title": "Leadership & Mentoring",
+			"description": "Experience guiding interns and leading technical teams on complex projects"
+		}
+	]
+}

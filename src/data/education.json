@@ -1,0 +1,13 @@
+
+{
+  "education": {
+    "college": "VITB",
+    "duration": "2016-2020",
+    "degree": "Bachelor of Technology (B.Tech)",
+    "specialization": "Electronics"
+  },
+  "courses": [
+    "Certified ScrumMaster",
+    "Docker Certified Associate by Edurek"
+  ]
+}

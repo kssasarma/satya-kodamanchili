@@ -1,0 +1,22 @@
+{
+  "contactInfo": [
+    {
+      "icon": "Phone",
+      "title": "Phone",
+      "value": "+91 9381088338",
+      "href": "tel:+919381088338"
+    },
+    {
+      "icon": "Mail",
+      "title": "Email",
+      "value": "kssasarma@gmail.com",
+      "href": "mailto:kssasarma@gmail.com?subject=Contact%20Request&body=Hello%2C%20I%20would%20like%20to%20get%20in%20touch%20with%20you"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "value": "surya-kodamanchili",
+      "href": "https://www.linkedin.com/in/surya-kodamanchili/"
+    }
+  ]
+}

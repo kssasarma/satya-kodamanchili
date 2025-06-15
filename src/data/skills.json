@@ -1,0 +1,25 @@
+
+{
+  "skillCategories": [
+    {
+      "title": "Programming Languages",
+      "skills": ["Java", "Python"],
+      "color": "from-blue-500 to-blue-600"
+    },
+    {
+      "title": "Frameworks & Libraries",
+      "skills": ["Spring Boot", "Spring Boot AI", "React"],
+      "color": "from-green-500 to-green-600"
+    },
+    {
+      "title": "DevOps & Tools",
+      "skills": ["Docker", "Git", "TeamCity", "GitHub", "Artifactory"],
+      "color": "from-purple-500 to-purple-600"
+    },
+    {
+      "title": "Platforms & Technologies",
+      "skills": ["VMware vCloud", "WebSphere", "WLST", "Microservices"],
+      "color": "from-orange-500 to-orange-600"
+    }
+  ]
+}
